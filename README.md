@@ -6,4 +6,5 @@ Test Cases tested in the codes:
   - Test Case 3: Adding Items to Basked
   - Test Case 7: Proper form when a wrong form of email is entered
   - Test Case 8: Web navigation through different pages
+
 All 5 test cases pass successfully.
